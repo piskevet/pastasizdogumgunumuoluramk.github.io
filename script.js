@@ -1,3 +1,4 @@
+<script>
 $(document).ready(function() {
     $(".candles").click(function() {
         
@@ -7,3 +8,4 @@ $(document).ready(function() {
       $(".text").animate({"top": -90, "opacity": 1}, "fast");
     });
 });
+</script>
